@@ -1,7 +1,7 @@
 # so_long
 
 <p align="center">
-  <img src="imgs/so_long_vid.gif" alt="so_long demo" width="800"/>
+  <img src="imgs/so_longvid.gif" alt="so_long demo" width="800"/>
 </p>
 
 ## About
